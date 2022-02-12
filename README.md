@@ -1,0 +1,3 @@
+Create a small project which consists in a website of recipes.
+
+Skill showns: boilerplate an HTML file, uses of links with different pages on the same website, and links to images, use of lists...
